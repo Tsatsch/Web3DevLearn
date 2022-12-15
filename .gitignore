@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# credentials
+web3_py_simple_storage/config.json
+
+# others
+.DS_Store
